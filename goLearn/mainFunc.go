@@ -7,7 +7,8 @@ type User struct {
 	Name string
 }
 
-func main() {
+func mainFunc
+() {
 	var user User
 	fmt.Printf("%v", user)
 	changeUser(user)
