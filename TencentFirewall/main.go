@@ -32,7 +32,7 @@ func main() {
 					fmt.Println("error:", err.Error())
 				}
 				fmt.Println(result)
-				accessToken := "94a1a00f04343c3b74032c413c857a1d9b26b7aa55cfbb0aa649857ca27bfc28"
+				accessToken := "xxx"
 				secret := ""
 				client := dingtalk.NewClient(accessToken, secret)
 
@@ -65,7 +65,7 @@ type FirewallRule struct {
 }
 
 func addIp(ipAddress string) (string, error) {
-	credential := common.NewCredential("AKID48Qdn0BqV5g8cOIiFlEnDiM7jFsbN4na", "2wlJzngXQEwLnTECDA119JXuTxJZq2BD")
+	credential := common.NewCredential("xxx", "xxx")
 	cpf := profile.NewClientProfile()
 	cpf.HttpProfile.Endpoint = "lighthouse.tencentcloudapi.com"
 	cpf.HttpProfile.ReqMethod = "POST"
