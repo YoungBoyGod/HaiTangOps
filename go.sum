@@ -1,0 +1,8 @@
+bou.ke/monkey v1.0.2 h1:kWcnsrCNUatbxncxR/ThdYqbytgOIArtYWqcQLQzKLI=
+bou.ke/monkey v1.0.2/go.mod h1:OqickVX3tNx6t33n1xvtTtu85YN5s6cKwVug+oHMaIA=
+github.com/CatchZeng/dingtalk v1.5.0 h1:3YNpGIdeZ4pTfjjVyC2G1CCzWocMmYniBY8CXiOY9Ss=
+github.com/CatchZeng/dingtalk v1.5.0/go.mod h1:/CT0Eskr26XfjAybLBLV+DjvPHaznwiFXRBndQp7zZ8=
+github.com/golang/mock v1.4.4 h1:l75CXGRSwbaYNpl/Z2X1XIIAMSCquvXgpVZDhwEIJsc=
+github.com/golang/mock v1.4.4/go.mod h1:l3mdAwkq5BuhzHwde/uurv3sEJeZMXNpwsxVWU71h+4=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.954 h1:rTDJ8BSdMG4G5r5gPlAkBpJgABmKItAe/5YRmgn4M9Q=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.954/go.mod h1:r5r4xbfxSaeR04b166HGsBa/R4U3SueirEUpXGuw+Q0=
